@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hi, I’m Trần Gia Thân  
+🎓 I'm an Information Security student with interests in web development and ethical hacking.  
 
-<!--
-**thunww/thunww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tech I work with:  
+- Web: Node.js, Express.js, React.js, MySQL, Sequelize  
+- Tools: Git, Docker, Postman  
+- Security: Basic pentesting (OWASP Top 10, Burp Suite, Kali Linux)
 
-Here are some ideas to get you started:
+💡 Currently learning:  
+- DevOps and Web Security   
+- Capture The Flag (CTF) and vulnerability analysis  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Passionate about: Building secure systems, exploiting common vulnerabilities, and automating security tasks  
+
+📫 Reach me at: trangiathandz2004@gmail.com
