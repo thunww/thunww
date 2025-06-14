@@ -1,7 +1,7 @@
 # Hi there, I'm Trần Gia Thân 👋
 
-🔐 About Me
-Information Security student passionate about web development and ethical hacking. Building secure web applications while mastering penetration testing and exploring CTF challenges.
+## 🔐 About Me
+**Information Security student** passionate about **web development** and **ethical hacking**. Building secure web applications while mastering penetration testing and exploring CTF challenges.
 
 ## 🛠️ Tech Stack & Tools
 
@@ -30,8 +30,6 @@ Information Security student passionate about web development and ethical hackin
 - DevSecOps methodologies
 - Modern authentication & authorization
 
-
-
 ## 🎯 What I'm Working On
 - Building secure web applications with modern frameworks
 - Contributing to open-source security tools
@@ -44,13 +42,12 @@ Information Security student passionate about web development and ethical hackin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thunww)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thunww)
 
-💼 Open for Opportunities
-
-Web Development Internships - Full-stack or Backend roles
-Information Security Internships - Cybersecurity and penetration testing positions
-Collaboration on security-focused web projects
-Bug bounty hunting partnerships
-Open source contributions
+## 💼 Open for Opportunities
+- **Web Development Internships** - Full-stack or Backend roles
+- **Information Security Internships** - Cybersecurity and penetration testing positions
+- **Collaboration** on security-focused web projects
+- **Bug bounty** hunting partnerships
+- **Open source** contributions
 
 ---
 
