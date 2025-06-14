@@ -1,7 +1,7 @@
 # Hi there, I'm Trần Gia Thân 👋
 
-## 🔐 About Me
-I'm an **Information Security student** with a passion for **web development** and **ethical hacking**. Currently exploring the intersection of cybersecurity and modern web technologies to build secure, robust applications.
+🔐 About Me
+Information Security student passionate about web development and ethical hacking. Building secure web applications while mastering penetration testing and exploring CTF challenges.
 
 ## 🛠️ Tech Stack & Tools
 
@@ -30,18 +30,7 @@ I'm an **Information Security student** with a passion for **web development** a
 - DevSecOps methodologies
 - Modern authentication & authorization
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thunww&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thunww&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-## 🔥 GitHub Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thunww&theme=radical" alt="GitHub Streak" />
-</div>
 
 ## 🎯 What I'm Working On
 - Building secure web applications with modern frameworks
@@ -55,11 +44,13 @@ I'm an **Information Security student** with a passion for **web development** a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thunww)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thunww)
 
-## 💼 Open for Opportunities
-- **Internships** in Information Security
-- **Collaboration** on security-focused projects
-- **Bug bounty** hunting partnerships
-- **Open source** contributions
+💼 Open for Opportunities
+
+Web Development Internships - Full-stack or Backend roles
+Information Security Internships - Cybersecurity and penetration testing positions
+Collaboration on security-focused web projects
+Bug bounty hunting partnerships
+Open source contributions
 
 ---
 
