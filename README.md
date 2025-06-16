@@ -54,11 +54,6 @@
 - Documenting cybersecurity learning journey
 - Building a personal security lab environment
 
-## 🏆 Achievements & Certifications
-- 🎓 Information Security Student
-- 🔍 Active CTF participant
-- 🛡️ Bug bounty hunter (mention platforms if applicable)
-- 📚 Self-taught ethical hacker
 
 ## 🤝 Let's Connect!
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trangiathandz2004@gmail.com)
