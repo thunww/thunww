@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-```hcl
+```terraform
 resource "devops_engineer" "than" {
   name           = "Trần Gia Thân"
   role           = "DevOps Engineer"
