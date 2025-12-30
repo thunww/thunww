@@ -12,8 +12,6 @@
 
 4th-year **Information Security student** at PTIT with a passion for **DevOps automation** and **cloud infrastructure**. I build secure, scalable systems on AWS while keeping security at the core of every decision.
 
-🏆 **Top 3 Friendly - Top 8 Global** at Securinets Friendly CTF 2025
-
 ---
 
 ## 💻 Technical Arsenal
@@ -96,13 +94,13 @@ Security research and vulnerability analyses from TECH-OLYMPICS 2025, SunshineCT
 <div align="center">
 
 <a href="https://github.com/thunww">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thunww&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thunww&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thunww&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thunww&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </a>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thunww&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thunww&theme=tokyonight&hide_border=true" />
 
 </div>
 
