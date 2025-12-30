@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Trần Gia Thân
 
-### DevOps Engineer | Cloud Enthusiast | Security Researcher
+### Cloud Engineer | DevOps Enthusiast | Security Researcher
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trangiathandz2004@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thunww)
@@ -17,74 +17,84 @@
 
 ## 🚀 About Me
 
-I'm a **4th-year Information Security student** at PTIT, passionate about building **secure, scalable cloud infrastructure** and automating everything with **DevOps practices**. I bridge the gap between development and operations while keeping security at the core of every decision.
+4th-year **Information Security student** at PTIT with a passion for **cloud infrastructure** and **DevOps automation**. I build secure, scalable systems on AWS while keeping security at the core of every decision.
 
-🎯 **What drives me:** Solving complex infrastructure challenges, automating tedious tasks, and making systems more reliable and secure.
-
-🏆 **Recent Achievement:** Top 3 Friendly - Top 8 Global at Securinets Friendly CTF 2025
+🏆 **Top 3 Friendly - Top 8 Global** at Securinets Friendly CTF 2025
 
 ---
 
 ## 💻 Technical Arsenal
 
-**Cloud & Infrastructure**
-```
-AWS (EC2, RDS, VPC, IAM)  •  Docker  •  Nginx  •  HAProxy
-```
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![HAProxy](https://img.shields.io/badge/HAProxy-00ADD8?style=for-the-badge&logoColor=white)
 
-**DevOps & CI/CD**
-```
-GitLab CI/CD  •  GitHub Actions  •  Git  •  Docker Compose
-```
+### DevOps & CI/CD
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**DevSecOps & Security**
-```
-SonarQube  •  Trivy  •  Burp Suite  •  OWASP ZAP  •  Nmap
-```
+### DevSecOps & Security
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logoColor=white)
 
-**Monitoring & Observability**
-```
-Prometheus  •  Grafana  •  Zabbix  •  cAdvisor
-```
+### Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC2936?style=for-the-badge&logoColor=white)
+![cAdvisor](https://img.shields.io/badge/cAdvisor-0db7ed?style=for-the-badge&logoColor=white)
 
-**Programming & Scripting**
-```
-Bash  •  Python  •  JavaScript  •  Java  •  C++
-```
+### Programming & Scripting
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Backend & Database**
-```
-Node.js  •  Express.js  •  MySQL  •  Sequelize ORM
-```
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 
-**Networking & Protocols**
-```
-TCP/IP  •  HTTP/HTTPS  •  DNS  •  SSL/TLS  •  Firewall Configuration
-```
+### Networking & Protocols
+![TCP/IP](https://img.shields.io/badge/TCP/IP-0078D4?style=for-the-badge&logoColor=white)
+![HTTP/HTTPS](https://img.shields.io/badge/HTTP/HTTPS-005571?style=for-the-badge&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-0078D4?style=for-the-badge&logoColor=white)
+![SSL/TLS](https://img.shields.io/badge/SSL/TLS-721412?style=for-the-badge&logoColor=white)
+![Firewall](https://img.shields.io/badge/Firewall-DD0031?style=for-the-badge&logoColor=white)
 
 ---
 
 ## 🛠️ Featured Projects
 
-### ☁️ [Cloud E-Commerce System on AWS](https://github.com/thunww)
-Production-ready deployment with security-first approach and enterprise-grade architecture.
-- **Tech:** AWS (EC2, RDS, VPC, NAT Gateway), Docker, Nginx, Cloudflare
-- **Highlights:** VPC networking with public/private subnets, HTTPS integration, container orchestration, system hardening
+### ☁️ [Cloud E-Commerce on AWS](https://github.com/thunww)
+Production deployment with VPC, EC2, RDS, Docker, Nginx reverse proxy, and Cloudflare CDN. Security-first architecture with system hardening and monitoring.
 
-### 🔐 [DevSecOps Pipeline - Bookstore API](https://github.com/thunww/bookstore-devsecops-pipeline)
-Automated CI/CD pipeline with integrated security scanning and quality gates.
-- **Tech:** GitLab CI/CD, SonarQube, Trivy, Docker, Ubuntu Server
-- **Highlights:** SAST code analysis, container vulnerability scanning, automated deployment, quality enforcement
+### 🔐 [DevSecOps Pipeline](https://github.com/thunww/bookstore-devsecops-pipeline)
+Automated CI/CD with SonarQube SAST, Trivy container scanning, quality gates, and automated deployment to Ubuntu server.
 
-### ⚖️ [Multi-Layer Load Balancing Architecture](https://github.com/thunww/haproxy-multilayer-cluster)
-High-availability system with advanced traffic distribution and full observability.
-- **Tech:** HAProxy (L4/L7), Docker, Prometheus, Grafana, cAdvisor
-- **Highlights:** Sticky sessions, automatic failover, health checks, real-time monitoring
+### ⚖️ [HAProxy Multi-Layer LB](https://github.com/thunww/haproxy-multilayer-cluster)
+High-availability architecture with Layer 4/7 load balancing, sticky sessions, automatic failover, and Prometheus + Grafana monitoring.
 
-### 🛡️ [CTF Challenges & Security Research](https://github.com/thunww/TECH-OLYMPICS-2025-CTF)
-Technical writeups and vulnerability analyses from various CTF competitions.
-- **Platforms:** PortSwigger Academy (60%), PicoCTF (70%), Root-Me
-- **Competitions:** TECH-OLYMPICS 2025, SunshineCTF 2025, Securinets Friendly CTF 2025
+### 🛡️ [CTF Writeups](https://github.com/thunww/TECH-OLYMPICS-2025-CTF)
+Security research and vulnerability analyses from TECH-OLYMPICS 2025, SunshineCTF 2025, Securinets Friendly CTF 2025.
+
+---
+
+## 🎯 Current Focus
+
+🔹 Kubernetes & container orchestration  
+🔹 Infrastructure as Code (Terraform, Ansible)  
+🔹 Advanced AWS services & architecture  
+🔹 DevSecOps automation  
+🔹 CTF competitions & security research  
 
 ---
 
@@ -96,54 +106,27 @@ Technical writeups and vulnerability analyses from various CTF competitions.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thunww&layout=compact&theme=tokyonight&hide_border=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thunww&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
 
-## 🎯 Current Focus
+## 💼 Open For
 
-🔹 Building production-ready cloud infrastructure on AWS  
-🔹 Mastering Kubernetes and container orchestration  
-🔹 Learning Infrastructure as Code (Terraform)  
-🔹 Deepening DevSecOps practices and automation  
-🔹 Competing in CTF challenges and security research  
-🔹 Contributing to open-source DevOps tools  
+✨ Cloud Engineer / DevOps Internships  
+✨ Information Security roles  
+✨ Open source contributions  
+✨ CTF collaborations & Bug bounty  
 
 ---
-
-## 🏆 Certifications & Achievements
-
-🥉 **Certificate of Excellence** - Securinets Friendly CTF 2025 (Top 3 Friendly - Top 8 Global)  
-🎓 **Merit Scholarship** - PTITHCM (2024 Semester I)  
-📜 **TOEIC** - 500+ (Listening & Reading)  
-🔜 **Upcoming:** Certified Ethical Hacker (CEH) - BKACAD (2025-2026)
-
----
-
-## 💼 I'm Open To
-
-✨ **DevOps Engineer Internships** - Cloud infrastructure, CI/CD, automation  
-✨ **Information Security Internships** - AppSec, penetration testing, security research  
-✨ **Cloud Engineering Roles** - AWS/Azure infrastructure design and management  
-✨ **Open Source Contributions** - DevOps and security tooling  
-✨ **CTF Team Collaborations** - Competitive hacking and knowledge sharing  
-✨ **Bug Bounty Programs** - Responsible disclosure and security testing  
-
----
-
-## 📫 Let's Connect!
-
-I'm always excited to connect with fellow engineers, discuss cloud architecture, DevOps best practices, or collaborate on security research. Feel free to reach out!
 
 <div align="center">
 
-**📧 trangiathandz2004@gmail.com**
+### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thunww)
-[![Twitter](https://img.shields.io/badge/-Follow%20on%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thunww)
+**trangiathandz2004@gmail.com**
 
----
-
-*"Infrastructure is code, code is infrastructure, and security is everything."*
+*"Build it secure, scale it smart, automate everything."*
 
 </div>
