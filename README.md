@@ -1,100 +1,149 @@
-# Hi there, I'm Trần Gia Thân 👋
+<div align="center">
 
-## 🔐 About Me
-**Information Security student** at PTIT with a strong focus on **DevOps**, **Cloud Infrastructure**, and **Cybersecurity**. Passionate about building secure, scalable systems through automation, containerization, and security best practices. Active CTF competitor with proven problem-solving skills.
+# 👋 Hi, I'm Trần Gia Thân
 
-## 🛠️ Tech Stack & Tools
+### DevOps Engineer | Cloud Enthusiast | Security Researcher
 
-### Programming & Scripting
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![HAProxy](https://img.shields.io/badge/HAProxy-00ADD8?style=for-the-badge)
-
-### CI/CD & DevSecOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge)
-
-### Monitoring & Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-CC2936?style=for-the-badge)
-
-### Security Tools
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-
-## 🎯 Focus Areas
-- **Cloud Infrastructure** (AWS EC2, RDS, VPC, Security Groups)
-- **DevOps & Automation** (CI/CD pipelines, GitLab CI, GitHub Actions)
-- **DevSecOps** (SAST with SonarQube, Container scanning with Trivy)
-- **Containerization** (Docker, Docker Compose, multi-stage builds)
-- **Load Balancing & High Availability** (HAProxy, Nginx)
-- **Monitoring & Observability** (Prometheus, Grafana)
-- **Web Application Security** (OWASP Top 10, Burp Suite, OWASP ZAP)
-- **Network Security** (TCP/IP, SSL/TLS, Firewall, VPN)
-- **CTF Competitions** (Web exploitation, reverse engineering)
-
-## 🏆 Achievements
-- **Top 3 Friendly - Top 8 Global** – Securinets Friendly CTF 2025
-- **Merit Scholarship** – PTITHCM (2024 Semester I)
-- **Certificate of Excellence** – Friendly CTF 2025
-
-## 💡 Currently Learning
-- Advanced AWS services and cloud architecture patterns
-- Kubernetes orchestration and container management
-- Infrastructure as Code (Terraform, Ansible)
-- Advanced CI/CD pipeline optimization
-- Security automation and threat detection
-- Microservices architecture and service mesh
-
-## 🔧 Featured Projects
-
-### 🚀 [Cloud & System Deployment](https://github.com/thunww)
-Deployed a production-ready e-commerce system on AWS with focus on security, scalability, and observability. Implemented VPC networking, containerization with Docker, Nginx reverse proxy, and Cloudflare integration.
-
-### 🔒 [Bookstore DevSecOps Pipeline](https://github.com/thunww/bookstore-devsecops-pipeline)
-Complete DevSecOps CI/CD pipeline with automated security scanning (SonarQube SAST, Trivy), quality gates, and automated deployment.
-
-### ⚖️ [HAProxy Multi-Layer Load Balancing](https://github.com/thunww/haproxy-multilayer-cluster)
-High-availability architecture with Layer 4/7 load balancing, sticky sessions, automatic failover, and full observability stack (Prometheus + Grafana).
-
-### 🛡️ [CTF Writeups & Security Research](https://github.com/thunww/TECH-OLYMPICS-2025-CTF)
-Technical writeups from various CTF competitions including vulnerability analyses and exploitation techniques.
-
-## 🤝 Let's Connect!
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trangiathandz2004@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thunww)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thunww)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tran.gia.than.2025)
 
-## 💼 Open for Opportunities
-- **DevOps Engineer Internships** - Cloud infrastructure, automation, and CI/CD
-- **Information Security Internships** - Application security and penetration testing
-- **Cloud Engineering** roles with AWS/Azure
-- **Open source** DevOps and security tool contributions
-- **CTF Team** participation and collaboration
-- **Bug bounty** hunting and security research
+![Profile Views](https://komarev.com/ghpvc/?username=thunww&label=Profile%20Views&color=0e75b6&style=flat)
+
+</div>
 
 ---
+
+## 🚀 About Me
+
+I'm a **4th-year Information Security student** at PTIT, passionate about building **secure, scalable cloud infrastructure** and automating everything with **DevOps practices**. I bridge the gap between development and operations while keeping security at the core of every decision.
+
+🎯 **What drives me:** Solving complex infrastructure challenges, automating tedious tasks, and making systems more reliable and secure.
+
+🏆 **Recent Achievement:** Top 3 Friendly - Top 8 Global at Securinets Friendly CTF 2025
+
+---
+
+## 💻 Technical Arsenal
+
+**Cloud & Infrastructure**
+```
+AWS (EC2, RDS, VPC, IAM)  •  Docker  •  Nginx  •  HAProxy
+```
+
+**DevOps & CI/CD**
+```
+GitLab CI/CD  •  GitHub Actions  •  Git  •  Docker Compose
+```
+
+**DevSecOps & Security**
+```
+SonarQube  •  Trivy  •  Burp Suite  •  OWASP ZAP  •  Nmap
+```
+
+**Monitoring & Observability**
+```
+Prometheus  •  Grafana  •  Zabbix  •  cAdvisor
+```
+
+**Programming & Scripting**
+```
+Bash  •  Python  •  JavaScript  •  Java  •  C++
+```
+
+**Backend & Database**
+```
+Node.js  •  Express.js  •  MySQL  •  Sequelize ORM
+```
+
+**Networking & Protocols**
+```
+TCP/IP  •  HTTP/HTTPS  •  DNS  •  SSL/TLS  •  Firewall Configuration
+```
+
+---
+
+## 🛠️ Featured Projects
+
+### ☁️ [Cloud E-Commerce System on AWS](https://github.com/thunww)
+Production-ready deployment with security-first approach and enterprise-grade architecture.
+- **Tech:** AWS (EC2, RDS, VPC, NAT Gateway), Docker, Nginx, Cloudflare
+- **Highlights:** VPC networking with public/private subnets, HTTPS integration, container orchestration, system hardening
+
+### 🔐 [DevSecOps Pipeline - Bookstore API](https://github.com/thunww/bookstore-devsecops-pipeline)
+Automated CI/CD pipeline with integrated security scanning and quality gates.
+- **Tech:** GitLab CI/CD, SonarQube, Trivy, Docker, Ubuntu Server
+- **Highlights:** SAST code analysis, container vulnerability scanning, automated deployment, quality enforcement
+
+### ⚖️ [Multi-Layer Load Balancing Architecture](https://github.com/thunww/haproxy-multilayer-cluster)
+High-availability system with advanced traffic distribution and full observability.
+- **Tech:** HAProxy (L4/L7), Docker, Prometheus, Grafana, cAdvisor
+- **Highlights:** Sticky sessions, automatic failover, health checks, real-time monitoring
+
+### 🛡️ [CTF Challenges & Security Research](https://github.com/thunww/TECH-OLYMPICS-2025-CTF)
+Technical writeups and vulnerability analyses from various CTF competitions.
+- **Platforms:** PortSwigger Academy (60%), PicoCTF (70%), Root-Me
+- **Competitions:** TECH-OLYMPICS 2025, SunshineCTF 2025, Securinets Friendly CTF 2025
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=thunww&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thunww&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thunww&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+🔹 Building production-ready cloud infrastructure on AWS  
+🔹 Mastering Kubernetes and container orchestration  
+🔹 Learning Infrastructure as Code (Terraform)  
+🔹 Deepening DevSecOps practices and automation  
+🔹 Competing in CTF challenges and security research  
+🔹 Contributing to open-source DevOps tools  
+
+---
+
+## 🏆 Certifications & Achievements
+
+🥉 **Certificate of Excellence** - Securinets Friendly CTF 2025 (Top 3 Friendly - Top 8 Global)  
+🎓 **Merit Scholarship** - PTITHCM (2024 Semester I)  
+📜 **TOEIC** - 500+ (Listening & Reading)  
+🔜 **Upcoming:** Certified Ethical Hacker (CEH) - BKACAD (2025-2026)
+
+---
+
+## 💼 I'm Open To
+
+✨ **DevOps Engineer Internships** - Cloud infrastructure, CI/CD, automation  
+✨ **Information Security Internships** - AppSec, penetration testing, security research  
+✨ **Cloud Engineering Roles** - AWS/Azure infrastructure design and management  
+✨ **Open Source Contributions** - DevOps and security tooling  
+✨ **CTF Team Collaborations** - Competitive hacking and knowledge sharing  
+✨ **Bug Bounty Programs** - Responsible disclosure and security testing  
+
+---
+
+## 📫 Let's Connect!
+
+I'm always excited to connect with fellow engineers, discuss cloud architecture, DevOps best practices, or collaborate on security research. Feel free to reach out!
+
+<div align="center">
+
+**📧 trangiathandz2004@gmail.com**
+
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thunww)
+[![Twitter](https://img.shields.io/badge/-Follow%20on%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thunww)
+
+---
+
+*"Infrastructure is code, code is infrastructure, and security is everything."*
+
 </div>
