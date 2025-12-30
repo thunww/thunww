@@ -2,14 +2,11 @@
 
 # 👋 Hi, I'm Trần Gia Thân
 
-### Cloud Engineer | DevOps Enthusiast | Security Researcher
+### DevOps Engineer | Cloud Enthusiast | Security Researcher
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trangiathandz2004@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thunww)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thunww)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tran.gia.than.2025)
-
-![Profile Views](https://komarev.com/ghpvc/?username=thunww&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
 
@@ -17,7 +14,7 @@
 
 ## 🚀 About Me
 
-4th-year **Information Security student** at PTIT with a passion for **cloud infrastructure** and **DevOps automation**. I build secure, scalable systems on AWS while keeping security at the core of every decision.
+4th-year **Information Security student** at PTIT with a passion for **DevOps automation** and **cloud infrastructure**. I build secure, scalable systems on AWS while keeping security at the core of every decision.
 
 🏆 **Top 3 Friendly - Top 8 Global** at Securinets Friendly CTF 2025
 
@@ -125,7 +122,9 @@ Security research and vulnerability analyses from TECH-OLYMPICS 2025, SunshineCT
 
 ### 📫 Let's Connect!
 
-**trangiathandz2004@gmail.com**
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trangiathandz2004@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=thunww&label=Profile%20Views&color=0e75b6&style=flat)
 
 *"Build it secure, scale it smart, automate everything."*
 
