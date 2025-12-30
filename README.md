@@ -10,9 +10,28 @@
 
 ## 🚀 About Me
 
-4th-year **Information Security student** at PTIT with a passion for **DevOps automation** and **cloud infrastructure**. I build secure, scalable systems on AWS while keeping security at the core of every decision.
-
-🏆 **Top 3 Friendly - Top 8 Global** at Securinets Friendly CTF 2025
+```hcl
+resource "devops_engineer" "than" {
+  name           = "Trần Gia Thân"
+  role           = "DevOps Engineer"
+  education      = "Information Security @ PTIT"
+  year           = "4th Year"
+  
+  specialization = [
+    "Cloud Infrastructure",
+    "DevOps Automation",
+    "Security Engineering"
+  ]
+  
+  mission = "Building secure, scalable systems on AWS with security-first approach"
+  
+  tags = {
+    Environment = "Production"
+    Mindset     = "Automate Everything"
+    Focus       = "Infrastructure as Code"
+  }
+}
+```
 
 ---
 
