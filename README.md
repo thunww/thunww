@@ -91,6 +91,14 @@ Security research and vulnerability analyses from TECH-OLYMPICS 2025, SunshineCT
 
 ---
 
+## 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thunww&theme=tokyo-night&hide_border=true&area=true" width="100%">
+</div>
+
+---
+
 ## 💼 Open For
 
 ✨ Cloud Engineer / DevOps Internships  
