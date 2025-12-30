@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Trần Gia Thân
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=200&section=header&text=Trần%20Gia%20Thân&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=DevOps%20Engineer%20|%20Cloud%20Enthusiast%20|%20Security%20Researcher&descSize=20&descAlignY=55"/>
 
-### DevOps Engineer | Cloud Enthusiast | Security Researcher
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&height=100&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Building+Cloud+Infrastructure+☁️;Automating+Everything+with+DevOps+⚙️;Securing+Systems+%26+Applications+🔐;CTF+Player+%26+Security+Researcher+🛡️" alt="Typing SVG" />
 
 </div>
 
@@ -11,6 +11,8 @@
 ## 🚀 About Me
 
 4th-year **Information Security student** at PTIT with a passion for **DevOps automation** and **cloud infrastructure**. I build secure, scalable systems on AWS while keeping security at the core of every decision.
+
+🏆 **Top 3 Friendly - Top 8 Global** at Securinets Friendly CTF 2025
 
 ---
 
@@ -108,6 +110,8 @@ Security research and vulnerability analyses from TECH-OLYMPICS 2025, SunshineCT
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tran.gia.than.2025)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thunww&label=Profile%20Views&color=0e75b6&style=flat)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 *"Build it secure, scale it smart, automate everything."*
 
