@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=200&section=header&text=Trần%20Gia%20Thân&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=DevOps%20Engineer%20|%20Cloud%20Enthusiast%20|%20Security%20Researcher&descSize=20&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a192f,50:1e3a8a,100:60a5fa&height=300&section=header&text=Trần%20Gia%20Thân&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20|%20Cloud%20Enthusiast%20|%20Security%20Researcher&descSize=20&descAlignY=58&descAlign=50"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub!+👋;Building+Cloud+Infrastructure+☁️;Automating+with+DevOps+⚙️;Securing+Systems+🔐;CTF+Player+%26+Security+Researcher+🛡️" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub!+👋;Building+Cloud+Infrastructure+☁️;Automating+with+DevOps+⚙️;Securing+Systems+🔐;CTF+Player+%26+Security+Researcher+🛡️" alt="Typing SVG" />
 
 </div>
 
