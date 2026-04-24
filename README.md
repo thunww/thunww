@@ -89,8 +89,6 @@ resource "devops_engineer" "than" {
 ### 🏦 [NovaPay — Cloud-Native Banking Platform on AWS EKS](https://github.com/thunww/novapay)
 End-to-end deployment of a banking microservices system on AWS — from network design and container orchestration to automated CI/CD, simulating a production-grade cloud environment.
 
----
-
 ### ☁️ [Cloud E-Commerce on AWS](https://github.com/thunww)
 Production deployment with VPC, EC2, RDS, Docker, Nginx reverse proxy, and Cloudflare CDN. Security-first architecture with system hardening and monitoring.
 
